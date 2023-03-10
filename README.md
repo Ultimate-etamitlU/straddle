@@ -1,9 +1,9 @@
 # straddle
-# I'm writing this sheet to get predictions over stock yard things! So please not to play using this sheet, save your bills!! 
+I'm writing this sheet to get predictions over stock yard things! So please not to play using this sheet, save your bills!! 
 
-###### This program is for personal use ######
+This program is for personal use ######
 
-## Some Shorts of Market! ##
+Some Shorts of Market! ##
 
 
 PDC  = Previous Day Close
